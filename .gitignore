@@ -1,4 +1,4 @@
-# Ignoramos todos los archivos csv y xlsx que estén en la raíz.
+# Ignoramos todos los archivos csv y xlsx.
 
-./*.csv
-./*xlsx
+*.csv
+*.xlsx
