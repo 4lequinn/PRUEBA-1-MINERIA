@@ -3,7 +3,10 @@
 ### Indice
 * [Objetivos](#objetivos)
 * [Acerca de los datos](#acerca-de-los-datos)
-* [Create](#create)
+* [Lenguajes](#lenguajes)
+* [Herramientas](#herramientas)
+* [Dependencias](#dependencias)
+* [Integrantes](#integrantes)
 
 
 > ### Objetivos
