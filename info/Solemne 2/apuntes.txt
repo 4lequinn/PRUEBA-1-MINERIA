@@ -1,0 +1,44 @@
+Prox miércoles entrega informe + Presentación.
+Continuación del notebook.
+
+- NOMBRE DEL PROYECTO
+- DEBE TENER UN INDICE
+- INTRODUCCIÓN (Cambios Climaticos)
+- PREDECIR UNA VARIABLE QUE YO ELIJA, en base a los datos que tenga como por ejemplo temp o cantidad de lluvia
+- EDA explicar el caso, los agricultores porque lo estamos aplicando etc
+- Análisis de información (Una variable que no podemos elegir es raintoday) (mostrar al menos 3 graficos con su interpretacion)
+- Limpieza de datos (Describir)
+- Exportar el csv 
+- Codigo resultado
+
+- Análisis de métricas de rendimiento (Algoritmo - R2 - RMSE - Validación cruzada (No se ha visto))
+
+- Predicciones a realizar 
+- Presentar conclusiones del  informe (5 conclusiones) en función de la predicciones
+(
+Toda conclusion parte con un verbo
+se analizó
+se observó
+se dedujo
+se infiere
+)
+
+informe en 3ra persona
+
+Notebook + Informe + PPT
+
+
+PRIMER ALGORITMO
+REGRESION LNEAL SIMPLE
+y = ax + b
+
+
+ANALISIS DE METRICAS
+y = ax + b   0.0015   0.030   
+
+
+ALGORITMOS
+LINEAL SIMPLE
+LINEAL MULTIPLE
+BOSQUE DE DECISION
+
