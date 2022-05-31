@@ -59,7 +59,7 @@ warnings.filterwarnings('ignore')
 
 <hr>
 <p align="center">
-    <img alt="Git" src="https://i.postimg.cc/SR575YXC/uwu.jpg" height="300" width="100%">
+    <img alt="Git" src="https://i.postimg.cc/SR575YXC/uwu.jpg" height="500" width="100%">
 </p>
 <hr>
 
