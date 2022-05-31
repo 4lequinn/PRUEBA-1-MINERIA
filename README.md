@@ -87,7 +87,9 @@ warnings.filterwarnings('ignore')
 
 <hr>
     <div align="center">
-        <img alt="Mona Xina Guns" src="https://i.postimg.cc/8cg0YYqT/angel-beats2.gif" height="500" width="100%">
+        <a href="https://www.instagram.com/x4leqxinn/" >
+            <img alt="Mona Xina Guns" src="https://i.postimg.cc/8cg0YYqT/angel-beats2.gif" height="500" width="100%">
+        </a>
     </div>
 <hr>
 
