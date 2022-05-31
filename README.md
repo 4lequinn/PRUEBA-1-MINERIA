@@ -1,5 +1,7 @@
 # Caso WeatherAUS - (Pronóstico del Clima en Australia)
 
+<hr>
+
 ### Indice
 * [Objetivos](#objetivos)
 * [Acerca de los datos](#acerca-de-los-datos)
@@ -8,6 +10,7 @@
 * [Dependencias](#dependencias)
 * [Integrantes](#integrantes)
 
+<hr>
 
 > ### Objetivos
 * [x] EDA. (Análisis Exploratorio)
@@ -42,13 +45,19 @@
 - RainToday: Si llueve más de 1mm en el día de la muestra.
 - RainTomorrow: predicción si lloverá más de 1 mm mañana.
 
+<hr>
+
 > ## Lenguajes
 - _Python version 3.6.01 Anaconda, Inc._
+
+<hr>
 
 > ## Herramientas
 - _Jupyter Notebook._
 - _Google Collab._
 - _Deep Note._
+
+<hr>
 
 > ## Dependencias
 
@@ -61,7 +70,6 @@ import warnings
 warnings.filterwarnings('ignore')
 %matplotlib inline
 ```
-
 <!-- Instagram [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy"). -->
 
 <hr>
