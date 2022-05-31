@@ -1,5 +1,11 @@
 # Caso WeatherAUS - (Pronóstico del Clima en Australia)
 
+### Indice
+* [Objetivos](#objetivos)
+* [Configuration Files](#configuration-files)
+* [Create](#create)
+
+
 > ### Objetivos
 * [x] EDA. (Análisis Exploratorio)
 * [x] Preprocesamiento.
