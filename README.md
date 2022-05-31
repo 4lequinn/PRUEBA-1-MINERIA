@@ -59,7 +59,7 @@ warnings.filterwarnings('ignore')
 
 <hr>
 <p align="center">
-    <img alt="Git" src="[![uwu.jpg](https://i.postimg.cc/SR575YXC/uwu.jpg)](https://postimg.cc/5QBCQ0S2 "Mona Xina")" height="190" width="455">
+    <img alt="Git" src="https://i.postimg.cc/SR575YXC/uwu.jpg" height="190" width="455">
 </p>
 <hr>
 
