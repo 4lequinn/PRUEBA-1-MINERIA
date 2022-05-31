@@ -74,7 +74,9 @@ warnings.filterwarnings('ignore')
 
 <hr>
     <div align="center">
-        <img alt="Mona Xina" src="https://i.postimg.cc/SR575YXC/uwu.jpg" href="https://www.instagram.com/x4leqxinn/" height="500" width="100%">
+        <a href="https://www.instagram.com/x4leqxinn/" >
+            <img alt="Mona Xina" src="https://i.postimg.cc/SR575YXC/uwu.jpg" height="500" width="100%">
+        </a>
     </div>
 <hr>
 
