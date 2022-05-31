@@ -6,6 +6,8 @@
 * [x] Preparación del modelo.
 * [ ] Modelos de Machine Learning.   
 
+<hr>
+
 ### Acerca de los datos
 - Date: Fecha de la observación.
 - Location: El nombre común de la ubicación de la estación meteorológica.
